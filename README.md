@@ -1,4 +1,6 @@
 <header><img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Jaybe's%20Profile&textBg=false&fontColor=000&reversal=false&rotate=-5&stroke=fff&strokeWidth=1"></header>
+<div align=center><h1>📚 STACKS</h1></div>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJBae)
 
