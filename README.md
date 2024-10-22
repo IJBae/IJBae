@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=black"/>
   <br>
